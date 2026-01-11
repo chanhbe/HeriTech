@@ -23,7 +23,8 @@ The ultimate goal is to build a **“Smart Museum”** model that enables real-t
 | **Trần Văn Hiền** | IoT Engineer | ------------- |
 | **Đặng Ngọc Thịnh** | AI & Chatbot Developer | ------------- |
 | **Lê Đức Hoàng Vỹ** | Database & Cloud Integration | ------------- |
-![Team Members](HeriTech_Picture/TeamIntro.png)  
+
+![Team Members](HeriTech_Picture/TeamIntro.png)
 
 ---
 
@@ -39,7 +40,7 @@ The ultimate goal is to build a **“Smart Museum”** model that enables real-t
 - **Database:** `Firebase Realtime Database`
 - **Frontend:** React + Tailwind CSS + Chart.js
 - **AI Integration:** ChatGPT API (via n8n workflow automation)
-
+![Features](HeriTech_Picture/Features.png)
 ---
 
 ## 🧠 **How It Works**
@@ -49,6 +50,7 @@ The ultimate goal is to build a **“Smart Museum”** model that enables real-t
 3. The **HeriTech Dashboard** (React + Tailwind CSS + Chart.js) visualizes live data in interactive charts.  
 4. **n8n Automation** acts as a middleware — sending user queries to **ChatGPT API** and returning AI-generated insights or suggested actions.  
    > Example: “UV intensity exceeds the safe threshold — please close the curtain to protect artifacts.”
+![Hello to the world!](HeriTech_Picture/BigIdea.png)
 
 ---
 
@@ -60,6 +62,8 @@ The ultimate goal is to build a **“Smart Museum”** model that enables real-t
 ✅ Cloud data storage via **Firebase**  
 ✅ AI chatbot assistance through **ChatGPT API**  
 ✅ Fully responsive and mobile-friendly dashboard  
+
+![Big Idea](HeriTech_Picture/BigIdea2.png)
 
 ---
 
@@ -74,6 +78,8 @@ The ultimate goal is to build a **“Smart Museum”** model that enables real-t
 | Languages | JavaScript, HTML, CSS |
 | Data Visualization | Chart.js |
 
+![Interface](HeriTech_Picture/Interface.png)
+
 ---
 
 ## 🧩 **System Architecture**
@@ -84,3 +90,25 @@ The ultimate goal is to build a **“Smart Museum”** model that enables real-t
                                → [ HeriTech Dashboard (React) ]
                                 ↘
                                  → [ n8n Workflow ] → [ ChatGPT API ]
+
+---
+## ⚖️ **License & Acknowledgment**
+
+### 🏫 Institutional Copyright Notice
+
+© 2025 **HeriTech Team** – *Swinburne Vietnam Alliance Program, Danang Campus*  
+In collaboration with:  
+- **Cham Sculpture Museum – Danang City**  
+- **Center for Science and Technology Application and Standard Measurement and Quality (SMEQC) – Danang**
+
+All rights reserved.  
+This project is developed under the academic and research supervision of **Swinburne Vietnam (Danang Campus)** and in technical partnership with **Cham Sculpture Museum** and **SMEQC Danang**.
+
+### 📜 License Terms
+
+This repository and its contents (source code, documentation, and design assets) are licensed for:
+- **Educational and research purposes only**  
+- **Non-commercial use**, as part of the HeriTech environmental monitoring initiative  
+- **Attribution required** when reproducing or referencing the system, in any report, article, or presentation.
+
+Unauthorized duplication, redistribution, or commercial adaptation of this project or any part thereof is **strictly prohibited** without written permission from the institutions listed above.
