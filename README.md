@@ -10,7 +10,7 @@
 The project is designed to assist **museum artifact preservation** by **monitoring, analyzing, and automatically responding** to environmental factors such as temperature, humidity, light intensity, UV rays, vibration, and gas concentration.
 
 The ultimate goal is to build a **“Smart Museum”** model that enables real-time data tracking, intelligent analysis, and affordable automation for artifact protection.
-
+![Champion](HeriTech_Picture/Champion.jpg)
 ---
 
 ## 👥 **Team Members**
