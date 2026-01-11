@@ -131,8 +131,16 @@ with field collaboration from **Cham Sculpture Museum** and **SMEQC Danang**,
 to promote the application of **IoT and AI** in the **preservation of cultural heritage**.
 
 <p align="center">
-  <img src="HeriTech_Picture/License.jpg" alt="HeriTech Institutional License" width="600">
+  <figure style="display:inline-block; margin: 10px;">
+    <img src="HeriTech_Picture/License.jpg" alt="Swinburne License" width="45%" style="border-radius: 10px;">
+    <figcaption><i>Swinburne Vietnam License</i></figcaption>
+  </figure>
+  <figure style="display:inline-block; margin: 10px;">
+    <img src="HeriTech_Picture/License2.jpg" alt="Institutional License" width="45%" style="border-radius: 10px;">
+    <figcaption><i>Cham Museum & SMEQC Collaboration</i></figcaption>
+  </figure>
 </p>
+
 
 ---
 
