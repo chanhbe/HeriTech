@@ -90,9 +90,10 @@ The ultimate goal is to build a **“Smart Museum”** model that enables real-t
                                → [ HeriTech Dashboard (React) ]
                                 ↘
                                  → [ n8n Workflow ] → [ ChatGPT API ]
-
+```
 ---
-## ⚖️ **License & Acknowledgment**
+
+## ⚖️ **License & Institutional Acknowledgment**
 
 ### 🏫 Institutional Copyright Notice
 
@@ -112,3 +113,27 @@ This repository and its contents (source code, documentation, and design assets)
 - **Attribution required** when reproducing or referencing the system, in any report, article, or presentation.
 
 Unauthorized duplication, redistribution, or commercial adaptation of this project or any part thereof is **strictly prohibited** without written permission from the institutions listed above.
+
+### 🧾 Citation Reference
+
+If you reference or reuse this project in publications or exhibitions, please cite as:
+
+> HeriTech Team (2025). *HeriTech Dashboard: IoT-Based Environmental Monitoring for Artifact Preservation.*  
+> Swinburne Vietnam Alliance Program – Danang Campus, in collaboration with Cham Sculpture Museum and SMEQC Danang.
+
+---
+
+### 🏛️ Institutional Endorsement
+
+This project has been developed under the academic guidance of  
+**Swinburne Vietnam Alliance Program – Danang Campus**,  
+with field collaboration from **Cham Sculpture Museum** and **SMEQC Danang**,  
+to promote the application of **IoT and AI** in the **preservation of cultural heritage**.
+
+<p align="center">
+  <img src="HeriTech_Picture/License.jpg" alt="HeriTech Institutional License" width="600">
+</p>
+
+---
+
+### 🌟 _“Preserving the Past, Empowering the Future with Technology.”_
