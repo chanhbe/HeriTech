@@ -23,7 +23,7 @@ The ultimate goal is to build a **“Smart Museum”** model that enables real-t
 | **Trần Văn Hiền** | IoT Engineer | ------------- |
 | **Đặng Ngọc Thịnh** | AI & Chatbot Developer | ------------- |
 | **Lê Đức Hoàng Vỹ** | Database & Cloud Integration | ------------- |
-![Team Members](HeriTech_Picture/TeamIntro.png)  
+![Team Members](HeriTech_Picture/Team Intro.png)  
 
 ---
 
