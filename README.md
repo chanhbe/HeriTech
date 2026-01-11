@@ -145,8 +145,33 @@ to promote the application of **IoT and AI** in the **preservation of cultural h
   </tr>
 </table>
 
+---
 
+## 🧠 **Advisory Board & Acknowledgment**
+
+The **HeriTech Team** sincerely expresses gratitude to our mentors, academic institutions, and partner organizations who have provided continuous guidance, feedback, and technical support throughout the research and development of this project.
+
+### 🏫 **Advisory & Institutional Support**
+
+We gratefully acknowledge the collaboration and support from:
+- **Swinburne Vietnam Alliance Program – Danang Campus**
+- **Cham Sculpture Museum – Danang City**
+- **Center for Science and Technology Application and Standard Measurement and Quality (SMEQC) – Danang**
+
+These institutions have provided academic supervision, technical consultation, and domain expertise in museum conservation and IoT application for heritage environments.
+
+### 🤝 **Community & Collaborative Support**
+
+We also extend our appreciation to the university’s innovation clubs, student communities, and research groups who encouraged our team’s exploration and experimentation in combining **IoT, AI, and data science** for cultural heritage preservation.
+
+![Interface](HeriTech_Picture/Advisory.png)
+![Interface](HeriTech_Picture/Advisory2.png)
 
 ---
 
-### 🌟 _“Preserving the Past, Empowering the Future with Technology.”_
+<p align="center">
+  <i>"Together, we innovate for heritage preservation — where technology meets culture."</i>
+</p>
+
+---
+
