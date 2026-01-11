@@ -17,12 +17,12 @@ The ultimate goal is to build a **“Smart Museum”** model that enables real-t
 
 | Name | Role | Email |
 |------|------|--------|
-| **Nguyễn Bá Chánh** | Team Leader / Backend & Data Analyst | chanhnb@swin.edu.vn |
-| **Huỳnh Phan Kiên** | Hardware Developer | kienhp@swin.edu.vn |
-| **Lê Thị Ngọc Diệp** | Frontend Developer | diepltn@swin.edu.vn |
-| **Trần Văn Hiền** | IoT Engineer | hienvt@swin.edu.vn |
-| **Đặng Ngọc Thịnh** | AI & Chatbot Developer | thinhdn@swin.edu.vn |
-| **Lê Đức Hoàng Vỹ** | Database & Cloud Integration | vylh@swin.edu.vn |
+| **Nguyễn Bá Chánh** | Team Leader / Backend & Data Analyst | ------------- |
+| **Huỳnh Phan Kiên** | Hardware Developer | ------------- |
+| **Lê Thị Ngọc Diệp** | Frontend Developer | ------------- |
+| **Trần Văn Hiền** | IoT Engineer | ------------- |
+| **Đặng Ngọc Thịnh** | AI & Chatbot Developer | ------------- |
+| **Lê Đức Hoàng Vỹ** | Database & Cloud Integration | ------------- |
 
 ---
 
